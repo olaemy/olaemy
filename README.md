@@ -1,0 +1,4 @@
+- 👋 Hi, I’m olaemy
+- 👀 I’m interested in Data analysis ML and AI
+- 🌱 I’m currently learning various real life applications of Data Science
+- 📫 How to reach me via my email eomidiora02@gmail.com
